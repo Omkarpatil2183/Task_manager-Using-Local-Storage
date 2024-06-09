@@ -1,1 +1,1 @@
-# to-do-list-using-JS
+I developed a dynamic and user-friendly To-Do List application using HTML, CSS, and JavaScript. This project emphasizes interactive UI design and local storage management, ensuring tasks are preserved across browser sessions. 
