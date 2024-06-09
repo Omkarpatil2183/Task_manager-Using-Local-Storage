@@ -26,7 +26,7 @@ body {
     /* height: 100vh; */
 }
 
-.input-containe {
+.input-container {
     width: 100%;
     max-width: 500px;
     text-align: center;
@@ -119,6 +119,14 @@ ul li:hover {
     padding: 10px;
     margin: 2px;
 
+
+}
+
+.addBtn{
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin:5px;
 
 }
 
