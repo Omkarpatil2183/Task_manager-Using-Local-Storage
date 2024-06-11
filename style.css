@@ -12,10 +12,13 @@ body {
 
     background-image: url(sunset2.jpg);
     background-repeat: no-repeat;
-    background-size: 100% ,100%;
-
+    background-size: cover;
+    background-position:center;
+    min-height: 100vh;
 
 }
+
+
 
 .container {
     display: flex;
@@ -66,9 +69,11 @@ body {
     cursor: pointer;
 }
 
+
 .input-container input[type="button"]:hover {
     background-color: rgb(255, 145, 0);
-
+    color: white;
+    /* border: #008000; */
 }
 
 .input-container input[type="button"]:active {
