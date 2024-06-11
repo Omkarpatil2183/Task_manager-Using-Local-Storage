@@ -28,7 +28,7 @@ body {
 
 .input-container {
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     text-align: center;
     padding: 20px;
 
@@ -42,7 +42,7 @@ body {
     border: none;
     outline: none;
     padding: 12px;
-    margin-block: 12px;
+    margin-block: 30px;
     border-radius: 4px;
     font-size: 16px;
 
